@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+#envio {
+    background-color: rgb(144, 251, 215);
+}
+
+#form {
+    background-color: rgb(163, 246, 246);
+}
